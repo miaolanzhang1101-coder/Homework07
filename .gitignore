@@ -1,0 +1,11 @@
+.DS_S*
+__pycache__/
+*_utils.py
+*_utils.py.*
+*.py.*
+*.pyc
+*.pyc.*
+data/**/*.csv
+data/**/*.json
+!Homework07_utils.py
+!Homework07_utils.pyc
